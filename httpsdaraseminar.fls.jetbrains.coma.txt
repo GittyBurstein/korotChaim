@@ -1,0 +1,4 @@
+jb1@helpby.org.il / jb2@helpby.org.il
+!Seminar2025
+https://daraseminar.fls.jetbrains.com/app
+intellij IDEA 2024.3.4
